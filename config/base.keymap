@@ -259,7 +259,7 @@ ZMK_LAYER(Symbols,
 ZMK_LAYER(Numbers,
 &trans  &trans &trans &trans     &trans    &trans                          &kp LBKT  &kp N7 &kp N8 &kp N9   &kp KP_MULTIPLY &trans
   &trans  &sk LGUI      &sk LALT      &sk LCTRL     &sk LSHFT    &trans                          &kp SEMI  &kp N4 &kp N5 &kp N6     &kp EQUAL    &trans
-             &bt BT_CLR  &trans &bt BT_SEL 0 &bt BT_SEL 1     &trans    &trans                    &kp GRAVE &kp N1 &kp N2     &kp N3    &kp KP_DOT &trans
+             &trans  &trans &trans &trans     &trans    &trans                    &kp GRAVE &kp N1 &kp N2     &kp N3    &kp KP_DOT &trans
                             &trans &trans &trans    &kp MINUS   &kp KP_PLUS   &kp N0
 )
 
