@@ -542,14 +542,14 @@ parse_config:
     "&mkp MB1": $$mdi:numeric-1-circle$$
     "&mkp MB2": $$mdi:numeric-2-circle$$
     "&mkp MB3": $$mdi:numeric-3-circle$$
-    "&mwh SCROLL_HOR(-100)": $$mdi:arrow-left-bold$$
-    "&mwh SCROLL_HOR(100)": $$mdi:arrow-right-bold$$
-    "&mmv MOVE_VERT(-1250)": $$mdi:arrow-down-bold-circle$$
-    "&mmv MOVE_VERT(1250)": $$mdi:arrow-up-bold-circle$$
-    "&mmv MOVE_HOR(-1250)": $$mdi:arrow-left-bold-circle$$
-    "&mmv MOVE_HOR(1250)": $$mdi:arrow-right-bold-circle$$
-    "&mwh SCROLL_VERT(-100)": $$mdi:arrow-down-bold$$
-    "&mwh SCROLL_VERT(100)": $$mdi:arrow-up-bold$$
+    "&mmv MOVE_Y(-1250)": $$mdi:arrow-down-bold-circle$$
+    "&mmv MOVE_Y(1250)": $$mdi:arrow-up-bold-circle$$
+    "&mmv MOVE_X(-1250)": $$mdi:arrow-left-bold-circle$$
+    "&mmv MOVE_X(1250)": $$mdi:arrow-right-bold-circle$$
+    "&msc SCRL_Y(100)": $$mdi:arrow-up-bold$$
+    "&msc SCRL_Y(-100)": $$mdi:arrow-down-bold$$
+    "&msc SCRL_X(-100)": $$mdi:arrow-left-bold$$
+    "&msc SCRL_X(100)": $$mdi:arrow-right-bold$$
 
 
   # ZMK
