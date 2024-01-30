@@ -22,8 +22,8 @@ draw_config:
   inner_pad_h: 1.5
 
   # padding between layers
-  outer_pad_w: 0
-  outer_pad_h: 0
+  outer_pad_w: 30
+  outer_pad_h: 56
 
   # gap between two halves for ortho layout generator
   # split_gap: 20 # This doesn't seem to have any effect either? 🤔
