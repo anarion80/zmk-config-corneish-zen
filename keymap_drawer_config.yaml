@@ -199,7 +199,7 @@ draw_config:
         --color--key--text--shifted: var(--color--material--blue-gray--500);
         --color--key--text--hold: var(--color--material--blue-gray--500);
 
-        --color--combo--bg: var(--color--material--blue-gray--100);
+        --color--combo--bg: var(--color--material--blue-gray--200);
         --color--combo--border: var(--color--combo--bg);
         --color--combo--dendron: var(--color--combo--border);
         --color--combo--text--tap: var(--color--material--blue-gray--800);
@@ -383,7 +383,7 @@ draw_config:
     .keypos-11,
     .keypos-12,
     .keypos-23,
-    .keypos-34,
+    .keypos-24,
     .keypos-35,
     .keypos-36,
     .keypos-37,
@@ -395,14 +395,14 @@ draw_config:
         --color--key--border: var(--color--material--blue-gray--50);
     }
 
-    .keypos-12 {
+    .keypos-24 {
         --color--key--bg: var(--color--material--red--300);
         --color--key--border: var(--color--material--red--200);
         --color--key--text--shifted: var(--color--key--text--tap);
         --color--key--text--hold: var(--color--key--text--tap);
     }
 
-    .keypos-23 {
+    .keypos-35 {
         --color--key--bg: var(--color--material--teal--200);
         --color--key--border: var(--color--material--teal--100);
     }
