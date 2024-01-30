@@ -2273,9 +2273,11 @@ path.combo {
 <g transform="translate(0, 3184)" class="layer-Adjust">
 <text x="0" y="0" class="label">Adjust</text>
 <g transform="translate(0, 0)">
-<g transform="translate(40, 70)" class="key trans keypos-0">
-<rect rx="4" ry="4" x="-38" y="-38" width="77" height="77" class="key trans"/>
-<use href="#mdi:transfer" xlink:href="#mdi:transfer" x="-13" y="-13" height="26" width="26.0" class="key trans tap glyph mdi:transfer"/>
+<g transform="translate(40, 70)" class="key keypos-0">
+<rect rx="4" ry="4" x="-38" y="-38" width="77" height="77" class="key"/>
+<use href="#mdi:toggle-switch" xlink:href="#mdi:toggle-switch" x="-13" y="-13" height="26" width="26.0" class="key tap glyph mdi:toggle-switch"/>
+<use href="#mdi:bluetooth" xlink:href="#mdi:bluetooth" x="-9" y="16" height="18" width="18.0" class="key hold glyph mdi:bluetooth"/>
+<use href="#mdi:usb" xlink:href="#mdi:usb" x="-9" y="-34" height="18" width="18.0" class="key shifted glyph mdi:usb"/>
 </g>
 <g transform="translate(120, 70)" class="key keypos-1">
 <rect rx="4" ry="4" x="-38" y="-38" width="77" height="77" class="key"/>
@@ -2379,9 +2381,6 @@ path.combo {
 </g>
 <g transform="translate(40, 230)" class="key held keypos-24">
 <rect rx="4" ry="4" x="-38" y="-38" width="77" height="77" class="key held"/>
-<use href="#mdi:toggle-switch" xlink:href="#mdi:toggle-switch" x="-13" y="-13" height="26" width="26.0" class="key held tap glyph mdi:toggle-switch"/>
-<use href="#mdi:bluetooth" xlink:href="#mdi:bluetooth" x="-9" y="16" height="18" width="18.0" class="key held hold glyph mdi:bluetooth"/>
-<use href="#mdi:usb" xlink:href="#mdi:usb" x="-9" y="-34" height="18" width="18.0" class="key held shifted glyph mdi:usb"/>
 </g>
 <g transform="translate(120, 230)" class="key trans keypos-25">
 <rect rx="4" ry="4" x="-38" y="-38" width="77" height="77" class="key trans"/>
