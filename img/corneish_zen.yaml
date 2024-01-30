@@ -259,7 +259,7 @@ layers:
   - {t: '$$mdi:transfer$$', type: trans}
   - {t: '$$mdi:transfer$$', type: trans}
   Tap-only:
-  - {t: Base, h: toggle}
+  - $$mdi:keyboard-esc$$
   - Q
   - W
   - E
@@ -283,7 +283,7 @@ layers:
   - L
   - {t: '''', s: '"'}
   - {t: '$$mdi:keyboard-return$$', type: enter}
-  - Media
+  - {t: Base, h: toggle}
   - Z
   - X
   - C
