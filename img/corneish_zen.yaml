@@ -94,9 +94,9 @@ layers:
   - {t: '$$mdi:transfer$$', type: trans}
   - {t: '$$mdi:transfer$$', type: trans}
   - {t: '$$mdi:transfer$$', type: trans}
-  - '&msc SCRL_X(-100)'
-  - '&mmv MOVE_Y(-1250)'
-  - '&msc SCRL_X(100)'
+  - $$mdi:arrow-left-bold$$
+  - $$mdi:arrow-down-bold-circle$$
+  - $$mdi:arrow-right-bold$$
   - {t: '$$mdi:transfer$$', type: trans}
   - {t: '$$mdi:transfer$$', type: trans}
   - {t: '$$mdi:transfer$$', type: trans}
@@ -106,9 +106,9 @@ layers:
   - {t: '$$mdi:apple-keyboard-shift$$', h: '$$mdi:gesture-tap-hold$$'}
   - {t: '$$mdi:transfer$$', type: trans}
   - {t: '$$mdi:transfer$$', type: trans}
-  - '&mmv MOVE_X(-1250)'
-  - '&mmv MOVE_Y(1250)'
-  - '&mmv MOVE_X(1250)'
+  - $$mdi:arrow-left-bold-circle$$
+  - $$mdi:arrow-up-bold-circle$$
+  - $$mdi:arrow-right-bold-circle$$
   - {t: '$$mdi:transfer$$', type: trans}
   - {t: '$$mdi:transfer$$', type: trans}
   - {t: '$$mdi:transfer$$', type: trans}
@@ -118,8 +118,8 @@ layers:
   - {t: '$$mdi:transfer$$', type: trans}
   - {t: '$$mdi:transfer$$', type: trans}
   - {t: '$$mdi:transfer$$', type: trans}
-  - '&msc SCRL_Y(-100)'
-  - '&msc SCRL_Y(100)'
+  - $$mdi:arrow-down-bold$$
+  - $$mdi:arrow-up-bold$$
   - {t: '$$mdi:transfer$$', type: trans}
   - {t: '$$mdi:transfer$$', type: trans}
   - {t: '$$mdi:transfer$$', type: trans}
